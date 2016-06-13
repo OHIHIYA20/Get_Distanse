@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApp_GetDistanse\ConsoleApp_GetDistanse\bin\Debug\ConsoleApp_GetDistanse.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApp_GetDistanse\ConsoleApp_GetDistanse\bin\Debug\ConsoleApp_GetDistanse.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApp_GetDistanse\ConsoleApp_GetDistanse\bin\Debug\ConsoleApp_GetDistanse.pdb
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApp_GetDistanse\ConsoleApp_GetDistanse\obj\Debug\ConsoleApp_GetDistanse.exe
+c:\users\admin\documents\visual studio 2015\Projects\ConsoleApp_GetDistanse\ConsoleApp_GetDistanse\obj\Debug\ConsoleApp_GetDistanse.pdb
